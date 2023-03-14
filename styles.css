@@ -133,16 +133,38 @@ ul {
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
+    width: 83%;
+    margin: 0px auto;
 }
 
 .quote-signature {
     font-weight: bold;
     text-align: end;
     font-size: 18px;
-    margin-right: 60px;
+    margin-right: 120px;
     margin-top: 10px;
 }
 
 .big-quote {
     padding: 150px 0px;
+}
+
+/*signup section:*/
+
+.signup {
+    display: flex;
+    justify-content: space-around;
+    padding: 45px 0px;
+    border-radius: 8px;
+}
+
+.signup-bottom {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-width: px;
+    border-color: #F9FAF8;
+    border-radius: 5px;
+    height: 30px;
+    width: 95px;
+    border-style: solid;
 }
