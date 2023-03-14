@@ -1,5 +1,6 @@
 * {
     margin: 0px;
+    font-family: 'Roboto', sans-serif;
 }
 
 a,
@@ -36,7 +37,7 @@ body {
 .top,
 footer,
 .signup {
-    color:white;
+    color:#F9FAF8;
 }
 
 .top {
@@ -53,9 +54,32 @@ footer,
     gap: 20px;
     font-size: 18px;
     color: #E5E7EB;
-    font-family: 'Roboto', sans-serif;
 }
 
 .logo {
     width: 120px;
+}
+
+.title-section {
+    display:flex;
+    margin: 100px 0px;
+}
+
+h1 {
+    font: 48px extra-bold #F9FAF8;
+    font-weight: bolder;
+    width: 300px;
+}
+
+.awesome-subtext {
+    width: 400px;
+}
+
+.signup-top {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 5px 25px;
+    margin-top: 10px;
 }
