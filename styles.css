@@ -9,6 +9,8 @@ a:visited {
     color: white;
 }
 
+
+
 body {
     display: flex;
     flex-direction: column;
@@ -20,6 +22,8 @@ body {
     max-width: 960px;
     margin: 0px auto;
 }
+
+/*background colors:*/
 
 .big-quote-background {
     background-color: #E5E7EB;
@@ -40,6 +44,8 @@ footer,
     color:#F9FAF8;
 }
 
+/*header in top section:*/
+
 .top {
     margin-top: 15px;
 }
@@ -59,6 +65,8 @@ footer,
 .logo {
     width: 120px;
 }
+
+/*title & big image in top section:*/
 
 .title-section {
     display:flex;
@@ -91,6 +99,8 @@ h1 {
     flex: 0 1 auto;
 }
 
+/*information section:*/
+
 h2 {
     text-align: center;
     margin: 50px;
@@ -116,6 +126,8 @@ ul {
     text-align: center;
     margin: 0px auto;
 }
+
+/*big-quote section:*/
 
 .quote {
     font-size: 36px;
