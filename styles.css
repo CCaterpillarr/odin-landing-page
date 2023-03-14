@@ -1,5 +1,22 @@
+* {
+    margin: 0px;
+}
+
 div,
 footer {
     max-width: 960px;
     margin: auto;
+}
+
+.background {
+    max-width: 100%;
+}
+
+.big-quote-background {
+    background-color: #E5E7EB;
+}
+
+.top-background,
+.footer-background {
+    background-color: #1F2937;
 }
