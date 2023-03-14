@@ -22,3 +22,13 @@ body {
 .footer-background {
     background-color: #1F2937;
 }
+
+.top,
+footer,
+.signup {
+    color:white;
+}
+
+.signup {
+    background-color: #3882F6
+}
