@@ -1,0 +1,1 @@
+Landing page made during The Odin Project webdev course. https://www.theodinproject.com
