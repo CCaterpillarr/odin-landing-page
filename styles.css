@@ -2,14 +2,16 @@
     margin: 0px;
 }
 
-div,
-footer {
-    max-width: 960px;
-    margin: auto;
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: space-between;
 }
 
-.background {
-    max-width: 100%;
+.centered {
+    max-width: 960px;
+    margin: 0px auto;
 }
 
 .big-quote-background {
