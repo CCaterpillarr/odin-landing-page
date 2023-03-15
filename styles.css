@@ -101,14 +101,14 @@ h1 {
 .awesome-image {
     background-color: #6D747D;
     width: 500px;
-    height: 200px;
+    height: 220px;
 }
 
 /*information section:*/
 
 h2 {
     text-align: center;
-    margin: -100px 0px 50px 0px;
+    margin: -70px 0px 60px 0px;
     font-size: 36px;
     font-weight: bolder;
 }
@@ -161,7 +161,7 @@ ul {
 .signup {
     display: flex;
     justify-content: space-around;
-    padding: 45px 0px;
+    padding: 60px 0px;
     border-radius: 8px;
 }
 
@@ -171,7 +171,7 @@ ul {
     border-width: 2px;
     border-color: #F9FAF8;
     border-radius: 5px;
-    padding: 0px 34px;
+    padding: 2px 34px;
     margin-top: 10px;
     border-style: solid;
 }
